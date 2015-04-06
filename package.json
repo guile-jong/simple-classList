@@ -1,0 +1,28 @@
+{
+  "name": "simple-classList",
+  "version": "1.0.0",
+  "description": "Simple Javascript DOM Class manipulation Library",
+  "main": "classList.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "karma": "^0.12.24",
+    "karma-jasmine": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "scripts": {
+    "test": "node_modules/karma/bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/html5crew/simple-classList.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/html5crew/simple-classList/issues"
+  },
+  "homepage": "https://github.com/html5crew/simple-classList"
+}
