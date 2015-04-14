@@ -6,7 +6,7 @@
         "eastkiki"
     ],
     "description": "Simple Javascript DOM Class manipulation Library",
-    "main": "class.js",
+    "main": "classList.js",
     "keywords": [
         "class manipulation",
         "class",
